@@ -1,0 +1,5 @@
+name "aftermath"
+description "Minimal library for working with posit numbers"
+authors "Oleg Bakharev"
+copyright "Copyright © 2021, Oleg Bakharev"
+license "ESL 1.0"
