@@ -839,5 +839,4 @@ private
 alias Posit8 = Posit!(8, 0);
 alias Posit16 = Posit!(16, 1);
 alias Posit32 = Posit!(32, 2);
-alias Posit64 = Posit!(64, 3);
 alias SoftFloat = Posit!(8, 2);
